@@ -1,0 +1,16 @@
+Description,Degree,Connected Nodes
+D-Amino acid metabolism,9,"Alanine, aspartate and glutamate metabolism, Glycolysis / Gluconeogenesis, Biosynthesis of amino acids, Pyruvate metabolism, Glycine, serine and threonine metabolism, Cysteine and methionine metabolism, Glutathione metabolism, Arginine biosynthesis, Efferocytosis"
+Biosynthesis of amino acids,8,"Alanine, aspartate and glutamate metabolism, D-Amino acid metabolism, Glycolysis / Gluconeogenesis, Pyruvate metabolism, Glycine, serine and threonine metabolism, Cysteine and methionine metabolism, Arginine biosynthesis, Valine, leucine and isoleucine biosynthesis"
+"Alanine, aspartate and glutamate metabolism",7,"D-Amino acid metabolism, Glycolysis / Gluconeogenesis, Biosynthesis of amino acids, Pyruvate metabolism, Glycine, serine and threonine metabolism, Cysteine and methionine metabolism, Arginine biosynthesis"
+Pyruvate metabolism,7,"Alanine, aspartate and glutamate metabolism, D-Amino acid metabolism, Glycolysis / Gluconeogenesis, Biosynthesis of amino acids, Valine, leucine and isoleucine biosynthesis, Taurine and hypotaurine metabolism, Efferocytosis"
+Glycolysis / Gluconeogenesis,6,"Alanine, aspartate and glutamate metabolism, D-Amino acid metabolism, Biosynthesis of amino acids, Pyruvate metabolism, Taurine and hypotaurine metabolism, Efferocytosis"
+"Glycine, serine and threonine metabolism",5,"Alanine, aspartate and glutamate metabolism, D-Amino acid metabolism, Biosynthesis of amino acids, Cysteine and methionine metabolism, Arginine biosynthesis"
+Cysteine and methionine metabolism,5,"Alanine, aspartate and glutamate metabolism, D-Amino acid metabolism, Biosynthesis of amino acids, Glycine, serine and threonine metabolism, Arginine biosynthesis"
+Arginine biosynthesis,5,"Alanine, aspartate and glutamate metabolism, D-Amino acid metabolism, Biosynthesis of amino acids, Glycine, serine and threonine metabolism, Cysteine and methionine metabolism"
+Efferocytosis,4,"D-Amino acid metabolism, Glycolysis / Gluconeogenesis, Pyruvate metabolism, Glutathione metabolism"
+Glutathione metabolism,2,"D-Amino acid metabolism, Efferocytosis"
+"Valine, leucine and isoleucine biosynthesis",2,"Biosynthesis of amino acids, Pyruvate metabolism"
+Taurine and hypotaurine metabolism,2,"Glycolysis / Gluconeogenesis, Pyruvate metabolism"
+Linoleic acid metabolism,0,
+alpha-Linolenic acid metabolism,0,
+Autophagy - other,0,

@@ -1,0 +1,16 @@
+Description,Degree,Connected Nodes
+Zeatin biosynthesis,6,"Oxidative phosphorylation, Taurine and hypotaurine metabolism, Pyruvate metabolism, C5-Branched dibasic acid metabolism, Nucleotide metabolism, Photosynthesis"
+Oxidative phosphorylation,5,"Zeatin biosynthesis, Alanine, aspartate and glutamate metabolism, Pyruvate metabolism, Nucleotide metabolism, Photosynthesis"
+Pyruvate metabolism,5,"Zeatin biosynthesis, Oxidative phosphorylation, Taurine and hypotaurine metabolism, Alanine, aspartate and glutamate metabolism, C5-Branched dibasic acid metabolism"
+Linoleic acid metabolism,3,"Arachidonic acid metabolism, alpha-Linolenic acid metabolism, Glycerophospholipid metabolism"
+Arachidonic acid metabolism,3,"Linoleic acid metabolism, alpha-Linolenic acid metabolism, Glycerophospholipid metabolism"
+alpha-Linolenic acid metabolism,3,"Linoleic acid metabolism, Arachidonic acid metabolism, Glycerophospholipid metabolism"
+Taurine and hypotaurine metabolism,3,"Zeatin biosynthesis, Pyruvate metabolism, C5-Branched dibasic acid metabolism"
+C5-Branched dibasic acid metabolism,3,"Zeatin biosynthesis, Taurine and hypotaurine metabolism, Pyruvate metabolism"
+Glycerophospholipid metabolism,3,"Linoleic acid metabolism, Arachidonic acid metabolism, alpha-Linolenic acid metabolism"
+Nucleotide metabolism,3,"Zeatin biosynthesis, Oxidative phosphorylation, Photosynthesis"
+Photosynthesis,3,"Zeatin biosynthesis, Oxidative phosphorylation, Nucleotide metabolism"
+"Alanine, aspartate and glutamate metabolism",2,"Oxidative phosphorylation, Pyruvate metabolism"
+"Phenylalanine, tyrosine and tryptophan biosynthesis",0,
+Lysine degradation,0,
+Arginine and proline metabolism,0,

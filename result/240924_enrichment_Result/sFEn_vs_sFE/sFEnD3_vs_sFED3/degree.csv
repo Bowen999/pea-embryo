@@ -1,0 +1,16 @@
+Description,Degree,Connected Nodes
+Pyruvate metabolism,8,"Propanoate metabolism, Arginine biosynthesis, Nicotinate and nicotinamide metabolism, Efferocytosis, Carbon metabolism, Glyoxylate and dicarboxylate metabolism, Glycolysis / Gluconeogenesis, C5-Branched dibasic acid metabolism"
+Carbon metabolism,6,"Pyruvate metabolism, Arginine biosynthesis, Nicotinate and nicotinamide metabolism, Glyoxylate and dicarboxylate metabolism, Glycolysis / Gluconeogenesis, C5-Branched dibasic acid metabolism"
+Glycolysis / Gluconeogenesis,6,"Pyruvate metabolism, Propanoate metabolism, Efferocytosis, Carbon metabolism, Glyoxylate and dicarboxylate metabolism, C5-Branched dibasic acid metabolism"
+C5-Branched dibasic acid metabolism,5,"Pyruvate metabolism, Biosynthesis of amino acids, Carbon metabolism, Glyoxylate and dicarboxylate metabolism, Glycolysis / Gluconeogenesis"
+Biosynthesis of amino acids,4,"Arginine biosynthesis, Thiamine metabolism, Phenylalanine, tyrosine and tryptophan biosynthesis, C5-Branched dibasic acid metabolism"
+Arginine biosynthesis,4,"Pyruvate metabolism, Biosynthesis of amino acids, Nicotinate and nicotinamide metabolism, Carbon metabolism"
+Glyoxylate and dicarboxylate metabolism,4,"Pyruvate metabolism, Carbon metabolism, Glycolysis / Gluconeogenesis, C5-Branched dibasic acid metabolism"
+Propanoate metabolism,3,"Pyruvate metabolism, Efferocytosis, Glycolysis / Gluconeogenesis"
+Nicotinate and nicotinamide metabolism,3,"Pyruvate metabolism, Arginine biosynthesis, Carbon metabolism"
+Efferocytosis,3,"Pyruvate metabolism, Propanoate metabolism, Glycolysis / Gluconeogenesis"
+Thiamine metabolism,2,"Biosynthesis of amino acids, Phenylalanine, tyrosine and tryptophan biosynthesis"
+"Phenylalanine, tyrosine and tryptophan biosynthesis",2,"Biosynthesis of amino acids, Thiamine metabolism"
+Linoleic acid metabolism,1,Arachidonic acid metabolism
+Arachidonic acid metabolism,1,Linoleic acid metabolism
+alpha-Linolenic acid metabolism,0,

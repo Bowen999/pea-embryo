@@ -1,0 +1,16 @@
+Description,Degree,Connected Nodes
+D-Amino acid metabolism,10,"Lysine degradation, Lysine biosynthesis, Biosynthesis of amino acids, Arginine and proline metabolism, Cysteine and methionine metabolism, Glutathione metabolism, Taurine and hypotaurine metabolism, Efferocytosis, Alanine, aspartate and glutamate metabolism, Carbon metabolism"
+Biosynthesis of amino acids,9,"D-Amino acid metabolism, Glycine, serine and threonine metabolism, Lysine degradation, Lysine biosynthesis, Arginine and proline metabolism, Cysteine and methionine metabolism, Taurine and hypotaurine metabolism, Alanine, aspartate and glutamate metabolism, Carbon metabolism"
+Lysine biosynthesis,8,"D-Amino acid metabolism, Glycine, serine and threonine metabolism, Lysine degradation, Biosynthesis of amino acids, Cysteine and methionine metabolism, Taurine and hypotaurine metabolism, Alanine, aspartate and glutamate metabolism, Carbon metabolism"
+Cysteine and methionine metabolism,8,"D-Amino acid metabolism, Glycine, serine and threonine metabolism, Lysine biosynthesis, Biosynthesis of amino acids, Glutathione metabolism, Taurine and hypotaurine metabolism, Alanine, aspartate and glutamate metabolism, Carbon metabolism"
+Carbon metabolism,8,"D-Amino acid metabolism, Lysine degradation, Lysine biosynthesis, Biosynthesis of amino acids, Cysteine and methionine metabolism, Taurine and hypotaurine metabolism, Alanine, aspartate and glutamate metabolism, beta-Alanine metabolism"
+Lysine degradation,7,"D-Amino acid metabolism, Lysine biosynthesis, Biosynthesis of amino acids, Arginine and proline metabolism, Taurine and hypotaurine metabolism, Alanine, aspartate and glutamate metabolism, Carbon metabolism"
+Taurine and hypotaurine metabolism,7,"D-Amino acid metabolism, Lysine degradation, Lysine biosynthesis, Biosynthesis of amino acids, Cysteine and methionine metabolism, Alanine, aspartate and glutamate metabolism, Carbon metabolism"
+"Alanine, aspartate and glutamate metabolism",7,"D-Amino acid metabolism, Lysine degradation, Lysine biosynthesis, Biosynthesis of amino acids, Cysteine and methionine metabolism, Taurine and hypotaurine metabolism, Carbon metabolism"
+Arginine and proline metabolism,5,"D-Amino acid metabolism, Lysine degradation, Biosynthesis of amino acids, Glutathione metabolism, Efferocytosis"
+Glutathione metabolism,4,"D-Amino acid metabolism, Arginine and proline metabolism, Cysteine and methionine metabolism, Efferocytosis"
+"Glycine, serine and threonine metabolism",3,"Lysine biosynthesis, Biosynthesis of amino acids, Cysteine and methionine metabolism"
+Efferocytosis,3,"D-Amino acid metabolism, Arginine and proline metabolism, Glutathione metabolism"
+alpha-Linolenic acid metabolism,1,Linoleic acid metabolism
+Linoleic acid metabolism,1,alpha-Linolenic acid metabolism
+beta-Alanine metabolism,1,Carbon metabolism

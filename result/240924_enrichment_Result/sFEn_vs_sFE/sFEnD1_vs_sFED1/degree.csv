@@ -1,0 +1,16 @@
+Description,Degree,Connected Nodes
+Biosynthesis of amino acids,9,"Lysine biosynthesis, Phenylalanine, tyrosine and tryptophan biosynthesis, Cyanoamino acid metabolism, Alanine, aspartate and glutamate metabolism, Glycine, serine and threonine metabolism, D-Amino acid metabolism, Pantothenate and CoA biosynthesis, Aminoacyl-tRNA biosynthesis, beta-Alanine metabolism"
+Cyanoamino acid metabolism,9,"Biosynthesis of amino acids, Lysine biosynthesis, Phenylalanine, tyrosine and tryptophan biosynthesis, Alanine, aspartate and glutamate metabolism, Glycine, serine and threonine metabolism, D-Amino acid metabolism, Pantothenate and CoA biosynthesis, Aminoacyl-tRNA biosynthesis, beta-Alanine metabolism"
+D-Amino acid metabolism,9,"Biosynthesis of amino acids, Lysine biosynthesis, Cyanoamino acid metabolism, Arginine and proline metabolism, Alanine, aspartate and glutamate metabolism, Glycine, serine and threonine metabolism, Pantothenate and CoA biosynthesis, Aminoacyl-tRNA biosynthesis, beta-Alanine metabolism"
+Aminoacyl-tRNA biosynthesis,9,"Biosynthesis of amino acids, Lysine biosynthesis, Phenylalanine, tyrosine and tryptophan biosynthesis, Cyanoamino acid metabolism, Alanine, aspartate and glutamate metabolism, Glycine, serine and threonine metabolism, D-Amino acid metabolism, Pantothenate and CoA biosynthesis, beta-Alanine metabolism"
+beta-Alanine metabolism,9,"Biosynthesis of amino acids, Lysine biosynthesis, Cyanoamino acid metabolism, Arginine and proline metabolism, Alanine, aspartate and glutamate metabolism, Glycine, serine and threonine metabolism, D-Amino acid metabolism, Pantothenate and CoA biosynthesis, Aminoacyl-tRNA biosynthesis"
+Lysine biosynthesis,8,"Biosynthesis of amino acids, Cyanoamino acid metabolism, Alanine, aspartate and glutamate metabolism, Glycine, serine and threonine metabolism, D-Amino acid metabolism, Pantothenate and CoA biosynthesis, Aminoacyl-tRNA biosynthesis, beta-Alanine metabolism"
+"Alanine, aspartate and glutamate metabolism",8,"Biosynthesis of amino acids, Lysine biosynthesis, Cyanoamino acid metabolism, Glycine, serine and threonine metabolism, D-Amino acid metabolism, Pantothenate and CoA biosynthesis, Aminoacyl-tRNA biosynthesis, beta-Alanine metabolism"
+"Glycine, serine and threonine metabolism",8,"Biosynthesis of amino acids, Lysine biosynthesis, Cyanoamino acid metabolism, Alanine, aspartate and glutamate metabolism, D-Amino acid metabolism, Pantothenate and CoA biosynthesis, Aminoacyl-tRNA biosynthesis, beta-Alanine metabolism"
+Pantothenate and CoA biosynthesis,8,"Biosynthesis of amino acids, Lysine biosynthesis, Cyanoamino acid metabolism, Alanine, aspartate and glutamate metabolism, Glycine, serine and threonine metabolism, D-Amino acid metabolism, Aminoacyl-tRNA biosynthesis, beta-Alanine metabolism"
+"Phenylalanine, tyrosine and tryptophan biosynthesis",3,"Biosynthesis of amino acids, Cyanoamino acid metabolism, Aminoacyl-tRNA biosynthesis"
+Linoleic acid metabolism,2,"alpha-Linolenic acid metabolism, Arachidonic acid metabolism"
+alpha-Linolenic acid metabolism,2,"Linoleic acid metabolism, Arachidonic acid metabolism"
+Arachidonic acid metabolism,2,"Linoleic acid metabolism, alpha-Linolenic acid metabolism"
+Arginine and proline metabolism,2,"D-Amino acid metabolism, beta-Alanine metabolism"
+"Cutin, suberine and wax biosynthesis",0,

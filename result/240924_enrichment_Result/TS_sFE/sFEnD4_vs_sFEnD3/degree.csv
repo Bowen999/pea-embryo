@@ -1,0 +1,16 @@
+Description,Degree,Connected Nodes
+Biosynthesis of amino acids,7,"Lysine degradation, Lysine biosynthesis, Cysteine and methionine metabolism, Glycine, serine and threonine metabolism, Alanine, aspartate and glutamate metabolism, Cyanoamino acid metabolism, Aminoacyl-tRNA biosynthesis"
+Cysteine and methionine metabolism,5,"Biosynthesis of amino acids, Lysine biosynthesis, Glycine, serine and threonine metabolism, Alanine, aspartate and glutamate metabolism, Aminoacyl-tRNA biosynthesis"
+Lysine biosynthesis,4,"Lysine degradation, Biosynthesis of amino acids, Cysteine and methionine metabolism, Glycine, serine and threonine metabolism"
+"Alanine, aspartate and glutamate metabolism",4,"Biosynthesis of amino acids, Cysteine and methionine metabolism, Cyanoamino acid metabolism, Aminoacyl-tRNA biosynthesis"
+Aminoacyl-tRNA biosynthesis,4,"Biosynthesis of amino acids, Cysteine and methionine metabolism, Alanine, aspartate and glutamate metabolism, Cyanoamino acid metabolism"
+Lysine degradation,3,"Biosynthesis of amino acids, Lysine biosynthesis, Arginine and proline metabolism"
+"Glycine, serine and threonine metabolism",3,"Biosynthesis of amino acids, Lysine biosynthesis, Cysteine and methionine metabolism"
+Cyanoamino acid metabolism,3,"Biosynthesis of amino acids, Alanine, aspartate and glutamate metabolism, Aminoacyl-tRNA biosynthesis"
+beta-Alanine metabolism,2,"Arginine and proline metabolism, Pantothenate and CoA biosynthesis"
+Arginine and proline metabolism,2,"Lysine degradation, beta-Alanine metabolism"
+Arachidonic acid metabolism,1,Linoleic acid metabolism
+Pantothenate and CoA biosynthesis,1,beta-Alanine metabolism
+Linoleic acid metabolism,1,Arachidonic acid metabolism
+Tryptophan metabolism,0,
+Glutathione metabolism,0,

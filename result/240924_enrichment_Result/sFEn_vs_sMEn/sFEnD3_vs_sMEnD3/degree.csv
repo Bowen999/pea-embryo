@@ -1,0 +1,16 @@
+Description,Degree,Connected Nodes
+Biosynthesis of amino acids,8,"Alanine, aspartate and glutamate metabolism, Arginine and proline metabolism, Monobactam biosynthesis, D-Amino acid metabolism, Glycine, serine and threonine metabolism, Arginine biosynthesis, 2-Oxocarboxylic acid metabolism, Pyruvate metabolism"
+D-Amino acid metabolism,7,"Biosynthesis of amino acids, Alanine, aspartate and glutamate metabolism, Arginine and proline metabolism, Monobactam biosynthesis, Arginine biosynthesis, 2-Oxocarboxylic acid metabolism, Pyruvate metabolism"
+2-Oxocarboxylic acid metabolism,6,"Biosynthesis of amino acids, Alanine, aspartate and glutamate metabolism, D-Amino acid metabolism, Glycine, serine and threonine metabolism, Arginine biosynthesis, Pyruvate metabolism"
+"Alanine, aspartate and glutamate metabolism",5,"Biosynthesis of amino acids, D-Amino acid metabolism, Vitamin B6 metabolism, 2-Oxocarboxylic acid metabolism, Pyruvate metabolism"
+Arginine and proline metabolism,5,"Biosynthesis of amino acids, Monobactam biosynthesis, D-Amino acid metabolism, Glycine, serine and threonine metabolism, Arginine biosynthesis"
+Arginine biosynthesis,5,"Biosynthesis of amino acids, Arginine and proline metabolism, Monobactam biosynthesis, D-Amino acid metabolism, 2-Oxocarboxylic acid metabolism"
+Monobactam biosynthesis,4,"Biosynthesis of amino acids, Arginine and proline metabolism, D-Amino acid metabolism, Arginine biosynthesis"
+Pyruvate metabolism,4,"Biosynthesis of amino acids, Alanine, aspartate and glutamate metabolism, D-Amino acid metabolism, 2-Oxocarboxylic acid metabolism"
+"Glycine, serine and threonine metabolism",3,"Biosynthesis of amino acids, Arginine and proline metabolism, 2-Oxocarboxylic acid metabolism"
+Vitamin B6 metabolism,1,"Alanine, aspartate and glutamate metabolism"
+alpha-Linolenic acid metabolism,0,
+Folate biosynthesis,0,
+"Cutin, suberine and wax biosynthesis",0,
+Taurine and hypotaurine metabolism,0,
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,0,

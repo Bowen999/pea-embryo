@@ -1,0 +1,16 @@
+Description,Degree,Connected Nodes
+Citrate cycle (TCA cycle),4,"Alanine, aspartate and glutamate metabolism, Pyruvate metabolism, C5-Branched dibasic acid metabolism, Glyoxylate and dicarboxylate metabolism"
+Pyruvate metabolism,3,"Citrate cycle (TCA cycle), Alanine, aspartate and glutamate metabolism, Glyoxylate and dicarboxylate metabolism"
+Glyoxylate and dicarboxylate metabolism,3,"Citrate cycle (TCA cycle), Pyruvate metabolism, C5-Branched dibasic acid metabolism"
+"Alanine, aspartate and glutamate metabolism",2,"Citrate cycle (TCA cycle), Pyruvate metabolism"
+C5-Branched dibasic acid metabolism,2,"Citrate cycle (TCA cycle), Glyoxylate and dicarboxylate metabolism"
+Autophagy - other,1,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,1,Autophagy - other
+Flavonoid biosynthesis,0,
+Monobactam biosynthesis,0,
+Riboflavin metabolism,0,
+Arginine and proline metabolism,0,
+Arachidonic acid metabolism,0,
+alpha-Linolenic acid metabolism,0,
+Phosphonate and phosphinate metabolism,0,
+Lysine degradation,0,

@@ -1,0 +1,16 @@
+Description,Degree,Connected Nodes
+Biosynthesis of amino acids,7,"Arginine and proline metabolism, Glycine, serine and threonine metabolism, Alanine, aspartate and glutamate metabolism, Lysine degradation, Cyanoamino acid metabolism, Monobactam biosynthesis, Phenylalanine, tyrosine and tryptophan biosynthesis"
+Arginine and proline metabolism,5,"Biosynthesis of amino acids, Glycine, serine and threonine metabolism, Alanine, aspartate and glutamate metabolism, Monobactam biosynthesis, Phenylalanine, tyrosine and tryptophan biosynthesis"
+"Glycine, serine and threonine metabolism",4,"Biosynthesis of amino acids, Arginine and proline metabolism, Monobactam biosynthesis, Phenylalanine, tyrosine and tryptophan biosynthesis"
+Monobactam biosynthesis,4,"Biosynthesis of amino acids, Arginine and proline metabolism, Glycine, serine and threonine metabolism, Phenylalanine, tyrosine and tryptophan biosynthesis"
+"Phenylalanine, tyrosine and tryptophan biosynthesis",4,"Biosynthesis of amino acids, Arginine and proline metabolism, Glycine, serine and threonine metabolism, Monobactam biosynthesis"
+"Alanine, aspartate and glutamate metabolism",3,"Biosynthesis of amino acids, Arginine and proline metabolism, Cyanoamino acid metabolism"
+alpha-Linolenic acid metabolism,2,"Linoleic acid metabolism, Arachidonic acid metabolism"
+Linoleic acid metabolism,2,"alpha-Linolenic acid metabolism, Arachidonic acid metabolism"
+Cyanoamino acid metabolism,2,"Biosynthesis of amino acids, Alanine, aspartate and glutamate metabolism"
+Arachidonic acid metabolism,2,"alpha-Linolenic acid metabolism, Linoleic acid metabolism"
+Lysine degradation,1,Biosynthesis of amino acids
+Taurine and hypotaurine metabolism,0,
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,0,
+Glutathione metabolism,0,
+Nucleotide metabolism,0,

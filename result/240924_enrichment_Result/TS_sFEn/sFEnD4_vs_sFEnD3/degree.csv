@@ -1,0 +1,16 @@
+Description,Degree,Connected Nodes
+Biosynthesis of amino acids,11,"Tryptophan metabolism, Glycine, serine and threonine metabolism, Arginine and proline metabolism, Aminoacyl-tRNA biosynthesis, Glutathione metabolism, Cyanoamino acid metabolism, Betalain biosynthesis, Thiamine metabolism, Lysine degradation, 2-Oxocarboxylic acid metabolism, Monobactam biosynthesis"
+2-Oxocarboxylic acid metabolism,11,"Tryptophan metabolism, Biosynthesis of amino acids, Glycine, serine and threonine metabolism, Arginine and proline metabolism, Aminoacyl-tRNA biosynthesis, Glutathione metabolism, Cyanoamino acid metabolism, Betalain biosynthesis, Thiamine metabolism, Lysine degradation, Monobactam biosynthesis"
+Aminoacyl-tRNA biosynthesis,9,"Tryptophan metabolism, Biosynthesis of amino acids, Glycine, serine and threonine metabolism, Cyanoamino acid metabolism, Betalain biosynthesis, Thiamine metabolism, Lysine degradation, 2-Oxocarboxylic acid metabolism, Monobactam biosynthesis"
+Monobactam biosynthesis,8,"Biosynthesis of amino acids, Glycine, serine and threonine metabolism, Aminoacyl-tRNA biosynthesis, Cyanoamino acid metabolism, Betalain biosynthesis, Purine metabolism, Thiamine metabolism, 2-Oxocarboxylic acid metabolism"
+Cyanoamino acid metabolism,6,"Biosynthesis of amino acids, Aminoacyl-tRNA biosynthesis, Betalain biosynthesis, Thiamine metabolism, 2-Oxocarboxylic acid metabolism, Monobactam biosynthesis"
+Betalain biosynthesis,6,"Biosynthesis of amino acids, Aminoacyl-tRNA biosynthesis, Cyanoamino acid metabolism, Thiamine metabolism, 2-Oxocarboxylic acid metabolism, Monobactam biosynthesis"
+Thiamine metabolism,6,"Biosynthesis of amino acids, Aminoacyl-tRNA biosynthesis, Cyanoamino acid metabolism, Betalain biosynthesis, 2-Oxocarboxylic acid metabolism, Monobactam biosynthesis"
+"Glycine, serine and threonine metabolism",5,"Tryptophan metabolism, Biosynthesis of amino acids, Aminoacyl-tRNA biosynthesis, 2-Oxocarboxylic acid metabolism, Monobactam biosynthesis"
+Tryptophan metabolism,4,"Biosynthesis of amino acids, Glycine, serine and threonine metabolism, Aminoacyl-tRNA biosynthesis, 2-Oxocarboxylic acid metabolism"
+Arginine and proline metabolism,3,"Biosynthesis of amino acids, Glutathione metabolism, 2-Oxocarboxylic acid metabolism"
+Glutathione metabolism,3,"Biosynthesis of amino acids, Arginine and proline metabolism, 2-Oxocarboxylic acid metabolism"
+Lysine degradation,3,"Biosynthesis of amino acids, Aminoacyl-tRNA biosynthesis, 2-Oxocarboxylic acid metabolism"
+Purine metabolism,2,"Nucleotide metabolism, Monobactam biosynthesis"
+Nucleotide metabolism,1,Purine metabolism
+Folate biosynthesis,0,

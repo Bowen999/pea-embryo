@@ -1,0 +1,16 @@
+Description,Degree,Connected Nodes
+Biosynthesis of amino acids,11,"Arginine and proline metabolism, Citrate cycle (TCA cycle), Glyoxylate and dicarboxylate metabolism, Alanine, aspartate and glutamate metabolism, Lysine degradation, D-Amino acid metabolism, Aminoacyl-tRNA biosynthesis, Monobactam biosynthesis, Cyanoamino acid metabolism, Glycine, serine and threonine metabolism, C5-Branched dibasic acid metabolism"
+Glyoxylate and dicarboxylate metabolism,9,"Biosynthesis of amino acids, Citrate cycle (TCA cycle), Alanine, aspartate and glutamate metabolism, D-Amino acid metabolism, Aminoacyl-tRNA biosynthesis, Monobactam biosynthesis, Cyanoamino acid metabolism, Glycine, serine and threonine metabolism, C5-Branched dibasic acid metabolism"
+D-Amino acid metabolism,9,"Biosynthesis of amino acids, Arginine and proline metabolism, Glyoxylate and dicarboxylate metabolism, Alanine, aspartate and glutamate metabolism, Lysine degradation, Aminoacyl-tRNA biosynthesis, Monobactam biosynthesis, Cyanoamino acid metabolism, Glycine, serine and threonine metabolism"
+Aminoacyl-tRNA biosynthesis,8,"Biosynthesis of amino acids, Arginine and proline metabolism, Glyoxylate and dicarboxylate metabolism, Alanine, aspartate and glutamate metabolism, D-Amino acid metabolism, Monobactam biosynthesis, Cyanoamino acid metabolism, Glycine, serine and threonine metabolism"
+"Glycine, serine and threonine metabolism",7,"Biosynthesis of amino acids, Arginine and proline metabolism, Glyoxylate and dicarboxylate metabolism, D-Amino acid metabolism, Aminoacyl-tRNA biosynthesis, Monobactam biosynthesis, Cyanoamino acid metabolism"
+Monobactam biosynthesis,6,"Biosynthesis of amino acids, Glyoxylate and dicarboxylate metabolism, D-Amino acid metabolism, Aminoacyl-tRNA biosynthesis, Cyanoamino acid metabolism, Glycine, serine and threonine metabolism"
+Cyanoamino acid metabolism,6,"Biosynthesis of amino acids, Glyoxylate and dicarboxylate metabolism, D-Amino acid metabolism, Aminoacyl-tRNA biosynthesis, Monobactam biosynthesis, Glycine, serine and threonine metabolism"
+Arginine and proline metabolism,5,"Biosynthesis of amino acids, Lysine degradation, D-Amino acid metabolism, Aminoacyl-tRNA biosynthesis, Glycine, serine and threonine metabolism"
+"Alanine, aspartate and glutamate metabolism",5,"Biosynthesis of amino acids, Citrate cycle (TCA cycle), Glyoxylate and dicarboxylate metabolism, D-Amino acid metabolism, Aminoacyl-tRNA biosynthesis"
+Citrate cycle (TCA cycle),4,"Biosynthesis of amino acids, Glyoxylate and dicarboxylate metabolism, Alanine, aspartate and glutamate metabolism, C5-Branched dibasic acid metabolism"
+Lysine degradation,3,"Biosynthesis of amino acids, Arginine and proline metabolism, D-Amino acid metabolism"
+C5-Branched dibasic acid metabolism,3,"Biosynthesis of amino acids, Citrate cycle (TCA cycle), Glyoxylate and dicarboxylate metabolism"
+Linoleic acid metabolism,0,
+alpha-Linolenic acid metabolism,0,
+Nucleotide metabolism,0,

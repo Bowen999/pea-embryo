@@ -1,0 +1,16 @@
+Description,Degree,Connected Nodes
+Biosynthesis of amino acids,7,"beta-Alanine metabolism, Arginine and proline metabolism, D-Amino acid metabolism, Lysine degradation, Pyruvate metabolism, Aminoacyl-tRNA biosynthesis, Valine, leucine and isoleucine biosynthesis"
+D-Amino acid metabolism,6,"beta-Alanine metabolism, Arginine and proline metabolism, Tropane, piperidine and pyridine alkaloid biosynthesis, Biosynthesis of amino acids, Glutathione metabolism, Aminoacyl-tRNA biosynthesis"
+Arginine and proline metabolism,5,"D-Amino acid metabolism, Tropane, piperidine and pyridine alkaloid biosynthesis, Biosynthesis of amino acids, Glutathione metabolism, Aminoacyl-tRNA biosynthesis"
+"Tropane, piperidine and pyridine alkaloid biosynthesis",4,"Arginine and proline metabolism, D-Amino acid metabolism, Lysine degradation, Glutathione metabolism"
+Aminoacyl-tRNA biosynthesis,4,"beta-Alanine metabolism, Arginine and proline metabolism, D-Amino acid metabolism, Biosynthesis of amino acids"
+beta-Alanine metabolism,3,"D-Amino acid metabolism, Biosynthesis of amino acids, Aminoacyl-tRNA biosynthesis"
+Glutathione metabolism,3,"Arginine and proline metabolism, D-Amino acid metabolism, Tropane, piperidine and pyridine alkaloid biosynthesis"
+Lysine degradation,2,"Tropane, piperidine and pyridine alkaloid biosynthesis, Biosynthesis of amino acids"
+Autophagy - other,2,"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis, Glycerophospholipid metabolism"
+Pyruvate metabolism,2,"Biosynthesis of amino acids, Valine, leucine and isoleucine biosynthesis"
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,2,"Autophagy - other, Glycerophospholipid metabolism"
+Glycerophospholipid metabolism,2,"Autophagy - other, Glycosylphosphatidylinositol (GPI)-anchor biosynthesis"
+"Valine, leucine and isoleucine biosynthesis",2,"Pyruvate metabolism, Biosynthesis of amino acids"
+Linoleic acid metabolism,0,
+alpha-Linolenic acid metabolism,0,

@@ -1,0 +1,16 @@
+Description,Degree,Connected Nodes
+Biosynthesis of amino acids,12,"Arginine and proline metabolism, Aminoacyl-tRNA biosynthesis, Taurine and hypotaurine metabolism, Alanine, aspartate and glutamate metabolism, D-Amino acid metabolism, Tryptophan metabolism, Arginine biosynthesis, Cyanoamino acid metabolism, Glycine, serine and threonine metabolism, Vitamin B6 metabolism, Lysine degradation, ABC transporters"
+Aminoacyl-tRNA biosynthesis,11,"Arginine and proline metabolism, Taurine and hypotaurine metabolism, Biosynthesis of amino acids, Alanine, aspartate and glutamate metabolism, D-Amino acid metabolism, Tryptophan metabolism, Arginine biosynthesis, Cyanoamino acid metabolism, Glycine, serine and threonine metabolism, Vitamin B6 metabolism, ABC transporters"
+"Alanine, aspartate and glutamate metabolism",9,"Arginine and proline metabolism, Aminoacyl-tRNA biosynthesis, Taurine and hypotaurine metabolism, Biosynthesis of amino acids, D-Amino acid metabolism, Arginine biosynthesis, Cyanoamino acid metabolism, Vitamin B6 metabolism, ABC transporters"
+D-Amino acid metabolism,9,"Arginine and proline metabolism, Aminoacyl-tRNA biosynthesis, Taurine and hypotaurine metabolism, Biosynthesis of amino acids, Alanine, aspartate and glutamate metabolism, Arginine biosynthesis, Vitamin B6 metabolism, Lysine degradation, ABC transporters"
+ABC transporters,9,"Arginine and proline metabolism, Aminoacyl-tRNA biosynthesis, Taurine and hypotaurine metabolism, Biosynthesis of amino acids, Alanine, aspartate and glutamate metabolism, Cysteine and methionine metabolism, D-Amino acid metabolism, Arginine biosynthesis, Vitamin B6 metabolism"
+Arginine and proline metabolism,8,"Aminoacyl-tRNA biosynthesis, Taurine and hypotaurine metabolism, Biosynthesis of amino acids, Alanine, aspartate and glutamate metabolism, D-Amino acid metabolism, Arginine biosynthesis, Lysine degradation, ABC transporters"
+Taurine and hypotaurine metabolism,8,"Arginine and proline metabolism, Aminoacyl-tRNA biosynthesis, Biosynthesis of amino acids, Alanine, aspartate and glutamate metabolism, Cysteine and methionine metabolism, D-Amino acid metabolism, Arginine biosynthesis, ABC transporters"
+Arginine biosynthesis,8,"Arginine and proline metabolism, Aminoacyl-tRNA biosynthesis, Taurine and hypotaurine metabolism, Biosynthesis of amino acids, Alanine, aspartate and glutamate metabolism, D-Amino acid metabolism, Vitamin B6 metabolism, ABC transporters"
+Vitamin B6 metabolism,6,"Aminoacyl-tRNA biosynthesis, Biosynthesis of amino acids, Alanine, aspartate and glutamate metabolism, D-Amino acid metabolism, Arginine biosynthesis, ABC transporters"
+Tryptophan metabolism,3,"Aminoacyl-tRNA biosynthesis, Biosynthesis of amino acids, Glycine, serine and threonine metabolism"
+Cyanoamino acid metabolism,3,"Aminoacyl-tRNA biosynthesis, Biosynthesis of amino acids, Alanine, aspartate and glutamate metabolism"
+"Glycine, serine and threonine metabolism",3,"Aminoacyl-tRNA biosynthesis, Biosynthesis of amino acids, Tryptophan metabolism"
+Lysine degradation,3,"Arginine and proline metabolism, Biosynthesis of amino acids, D-Amino acid metabolism"
+Cysteine and methionine metabolism,2,"Taurine and hypotaurine metabolism, ABC transporters"
+Linoleic acid metabolism,0,

@@ -1,0 +1,16 @@
+Description,Degree,Connected Nodes
+Biosynthesis of amino acids,11,"Tryptophan metabolism, Glycine, serine and threonine metabolism, Monobactam biosynthesis, Arginine and proline metabolism, D-Amino acid metabolism, Aminoacyl-tRNA biosynthesis, Pantothenate and CoA biosynthesis, Lysine degradation, Phenylalanine, tyrosine and tryptophan biosynthesis, Sulfur metabolism, Valine, leucine and isoleucine biosynthesis"
+Aminoacyl-tRNA biosynthesis,9,"Tryptophan metabolism, Glycine, serine and threonine metabolism, Biosynthesis of amino acids, Monobactam biosynthesis, Arginine and proline metabolism, D-Amino acid metabolism, Phenylalanine, tyrosine and tryptophan biosynthesis, Sulfur metabolism, Valine, leucine and isoleucine biosynthesis"
+"Glycine, serine and threonine metabolism",8,"Tryptophan metabolism, Biosynthesis of amino acids, Monobactam biosynthesis, D-Amino acid metabolism, Aminoacyl-tRNA biosynthesis, Phenylalanine, tyrosine and tryptophan biosynthesis, Sulfur metabolism, Valine, leucine and isoleucine biosynthesis"
+D-Amino acid metabolism,8,"Glycine, serine and threonine metabolism, Biosynthesis of amino acids, Monobactam biosynthesis, Glutathione metabolism, Arginine and proline metabolism, Aminoacyl-tRNA biosynthesis, Sulfur metabolism, Valine, leucine and isoleucine biosynthesis"
+Monobactam biosynthesis,6,"Glycine, serine and threonine metabolism, Biosynthesis of amino acids, D-Amino acid metabolism, Aminoacyl-tRNA biosynthesis, Sulfur metabolism, Valine, leucine and isoleucine biosynthesis"
+"Valine, leucine and isoleucine biosynthesis",6,"Glycine, serine and threonine metabolism, Biosynthesis of amino acids, Monobactam biosynthesis, D-Amino acid metabolism, Aminoacyl-tRNA biosynthesis, Pantothenate and CoA biosynthesis"
+Sulfur metabolism,5,"Glycine, serine and threonine metabolism, Biosynthesis of amino acids, Monobactam biosynthesis, D-Amino acid metabolism, Aminoacyl-tRNA biosynthesis"
+Tryptophan metabolism,4,"Glycine, serine and threonine metabolism, Biosynthesis of amino acids, Aminoacyl-tRNA biosynthesis, Phenylalanine, tyrosine and tryptophan biosynthesis"
+Arginine and proline metabolism,4,"Biosynthesis of amino acids, Glutathione metabolism, D-Amino acid metabolism, Aminoacyl-tRNA biosynthesis"
+"Phenylalanine, tyrosine and tryptophan biosynthesis",4,"Tryptophan metabolism, Glycine, serine and threonine metabolism, Biosynthesis of amino acids, Aminoacyl-tRNA biosynthesis"
+Glutathione metabolism,2,"Arginine and proline metabolism, D-Amino acid metabolism"
+Pantothenate and CoA biosynthesis,2,"Biosynthesis of amino acids, Valine, leucine and isoleucine biosynthesis"
+Lysine degradation,1,Biosynthesis of amino acids
+Folate biosynthesis,0,
+Vitamin B6 metabolism,0,

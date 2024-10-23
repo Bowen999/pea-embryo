@@ -1,0 +1,16 @@
+Description,Degree,Connected Nodes
+Biosynthesis of amino acids,11,"Arginine and proline metabolism, Efferocytosis, Monobactam biosynthesis, Sulfur metabolism, Zeatin biosynthesis, Aminoacyl-tRNA biosynthesis, D-Amino acid metabolism, Sulfur relay system, Arginine biosynthesis, Carbon metabolism, ABC transporters"
+Arginine and proline metabolism,7,"Biosynthesis of amino acids, Efferocytosis, Monobactam biosynthesis, Aminoacyl-tRNA biosynthesis, D-Amino acid metabolism, Arginine biosynthesis, ABC transporters"
+Efferocytosis,7,"Arginine and proline metabolism, Biosynthesis of amino acids, Monobactam biosynthesis, Aminoacyl-tRNA biosynthesis, D-Amino acid metabolism, Arginine biosynthesis, ABC transporters"
+Monobactam biosynthesis,7,"Arginine and proline metabolism, Biosynthesis of amino acids, Efferocytosis, Aminoacyl-tRNA biosynthesis, D-Amino acid metabolism, Arginine biosynthesis, ABC transporters"
+Aminoacyl-tRNA biosynthesis,7,"Arginine and proline metabolism, Biosynthesis of amino acids, Efferocytosis, Monobactam biosynthesis, D-Amino acid metabolism, Arginine biosynthesis, ABC transporters"
+D-Amino acid metabolism,7,"Arginine and proline metabolism, Biosynthesis of amino acids, Efferocytosis, Monobactam biosynthesis, Aminoacyl-tRNA biosynthesis, Arginine biosynthesis, ABC transporters"
+Arginine biosynthesis,7,"Arginine and proline metabolism, Biosynthesis of amino acids, Efferocytosis, Monobactam biosynthesis, Aminoacyl-tRNA biosynthesis, D-Amino acid metabolism, ABC transporters"
+ABC transporters,7,"Arginine and proline metabolism, Biosynthesis of amino acids, Efferocytosis, Monobactam biosynthesis, Aminoacyl-tRNA biosynthesis, D-Amino acid metabolism, Arginine biosynthesis"
+Sulfur metabolism,5,"Biosynthesis of amino acids, Zeatin biosynthesis, Sulfur relay system, Taurine and hypotaurine metabolism, Carbon metabolism"
+Zeatin biosynthesis,5,"Biosynthesis of amino acids, Sulfur metabolism, Sulfur relay system, Taurine and hypotaurine metabolism, Carbon metabolism"
+Carbon metabolism,5,"Biosynthesis of amino acids, Sulfur metabolism, Zeatin biosynthesis, Sulfur relay system, Taurine and hypotaurine metabolism"
+Sulfur relay system,4,"Biosynthesis of amino acids, Sulfur metabolism, Zeatin biosynthesis, Carbon metabolism"
+Taurine and hypotaurine metabolism,3,"Sulfur metabolism, Zeatin biosynthesis, Carbon metabolism"
+Flavonoid biosynthesis,1,"Stilbenoid, diarylheptanoid and gingerol biosynthesis"
+"Stilbenoid, diarylheptanoid and gingerol biosynthesis",1,Flavonoid biosynthesis

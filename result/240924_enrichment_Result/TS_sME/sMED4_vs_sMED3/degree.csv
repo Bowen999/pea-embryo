@@ -1,0 +1,16 @@
+Description,Degree,Connected Nodes
+Lysine biosynthesis,4,"Lysine degradation, Cysteine and methionine metabolism, Glycine, serine and threonine metabolism, Biosynthesis of amino acids"
+Biosynthesis of amino acids,4,"Lysine degradation, Lysine biosynthesis, Cysteine and methionine metabolism, Glycine, serine and threonine metabolism"
+Lysine degradation,3,"Lysine biosynthesis, Arginine and proline metabolism, Biosynthesis of amino acids"
+Cysteine and methionine metabolism,3,"Lysine biosynthesis, Glycine, serine and threonine metabolism, Biosynthesis of amino acids"
+"Glycine, serine and threonine metabolism",3,"Lysine biosynthesis, Cysteine and methionine metabolism, Biosynthesis of amino acids"
+Oxidative phosphorylation,3,"Nucleotide metabolism, Alanine, aspartate and glutamate metabolism, Butanoate metabolism"
+"Alanine, aspartate and glutamate metabolism",2,"Oxidative phosphorylation, Butanoate metabolism"
+Butanoate metabolism,2,"Oxidative phosphorylation, Alanine, aspartate and glutamate metabolism"
+alpha-Linolenic acid metabolism,1,Plant hormone signal transduction
+Nucleotide metabolism,1,Oxidative phosphorylation
+Arginine and proline metabolism,1,Lysine degradation
+Plant hormone signal transduction,1,alpha-Linolenic acid metabolism
+Linoleic acid metabolism,0,
+Monobactam biosynthesis,0,
+Glutathione metabolism,0,

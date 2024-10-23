@@ -1,0 +1,16 @@
+Description,Degree,Connected Nodes
+Biosynthesis of amino acids,9,"Glycine, serine and threonine metabolism, D-Amino acid metabolism, Alanine, aspartate and glutamate metabolism, Pantothenate and CoA biosynthesis, Monobactam biosynthesis, Cyanoamino acid metabolism, Valine, leucine and isoleucine biosynthesis, Arginine biosynthesis, Taurine and hypotaurine metabolism"
+D-Amino acid metabolism,8,"Glycine, serine and threonine metabolism, Biosynthesis of amino acids, Alanine, aspartate and glutamate metabolism, Monobactam biosynthesis, Cyanoamino acid metabolism, Valine, leucine and isoleucine biosynthesis, Arginine biosynthesis, Taurine and hypotaurine metabolism"
+"Glycine, serine and threonine metabolism",5,"D-Amino acid metabolism, Biosynthesis of amino acids, Monobactam biosynthesis, Cyanoamino acid metabolism, Valine, leucine and isoleucine biosynthesis"
+"Alanine, aspartate and glutamate metabolism",5,"D-Amino acid metabolism, Biosynthesis of amino acids, Oxidative phosphorylation, Arginine biosynthesis, Taurine and hypotaurine metabolism"
+Monobactam biosynthesis,5,"Glycine, serine and threonine metabolism, D-Amino acid metabolism, Biosynthesis of amino acids, Cyanoamino acid metabolism, Valine, leucine and isoleucine biosynthesis"
+"Valine, leucine and isoleucine biosynthesis",5,"Glycine, serine and threonine metabolism, D-Amino acid metabolism, Biosynthesis of amino acids, Pantothenate and CoA biosynthesis, Monobactam biosynthesis"
+Cyanoamino acid metabolism,4,"Glycine, serine and threonine metabolism, D-Amino acid metabolism, Biosynthesis of amino acids, Monobactam biosynthesis"
+Arginine biosynthesis,4,"D-Amino acid metabolism, Biosynthesis of amino acids, Alanine, aspartate and glutamate metabolism, Oxidative phosphorylation"
+Oxidative phosphorylation,3,"Alanine, aspartate and glutamate metabolism, Nucleotide metabolism, Arginine biosynthesis"
+Taurine and hypotaurine metabolism,3,"D-Amino acid metabolism, Biosynthesis of amino acids, Alanine, aspartate and glutamate metabolism"
+Pantothenate and CoA biosynthesis,2,"Biosynthesis of amino acids, Valine, leucine and isoleucine biosynthesis"
+Linoleic acid metabolism,1,Arachidonic acid metabolism
+Arachidonic acid metabolism,1,Linoleic acid metabolism
+Nucleotide metabolism,1,Oxidative phosphorylation
+alpha-Linolenic acid metabolism,0,
